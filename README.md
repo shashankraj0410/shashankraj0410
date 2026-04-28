@@ -61,21 +61,28 @@ Power BI | Streamlit | Git | Jupyter
 - Real-time event detection & analytics for broadcast systems  
 
 ---
-
 ## 💼 Experience
 
-### 🔹 AI/ML Intern – Forasoftware Group
-- Built **RAG pipelines & agent-based systems**
-- Designed **data pipelines + vector indexing systems**
-- Developed **FastAPI services for real-time inference**
-- Improved system performance using evaluation metrics  
+### 🔹 AI/ML Intern – Forasoftware Group  
+*Sep 2025*
+
+- Designed and deployed **agent-based AI systems** using LangChain, enabling dynamic query routing, tool selection, and multi-step reasoning across structured (DuckDB) and unstructured (FAISS) data  
+- Built and optimized **end-to-end RAG pipelines**, improving retrieval accuracy, response relevance, and latency through advanced chunking and embedding strategies  
+- Developed **scalable data ingestion and vector indexing pipelines** using Azure Functions and Blob Storage for real-time document processing  
+- Engineered **FastAPI-based backend services** for low-latency inference and seamless API integration  
+- Implemented **evaluation frameworks and experiment tracking**, improving model performance through iterative testing and metric-driven optimization  
+- Enhanced system reliability by applying **data preprocessing, feature engineering, and robust pipeline design** on real-world noisy datasets  
 
 ---
 
-### 🔹 AI Intern – TV Conal
-- Developed **data pipelines for large-scale cricket data**
-- Built **ML workflows for video event detection**
-- Created **PyQt UI integrated with real-time systems**
+### 🔹 AI Intern – TV Conal  
+*June 2025*
+
+- Built **high-performance data pipelines** using Python and PostgreSQL to process large-scale, time-series cricket datasets for analytics and real-time event detection  
+- Developed **ML-assisted workflows for video intelligence**, enabling automated identification of key match events in live broadcast systems  
+- Designed and implemented **data preprocessing and validation pipelines**, improving data quality and model performance in production environments  
+- Created a **PyQt-based control interface** integrated with Unreal Engine for real-time monitoring and broadcast workflow management  
+- Worked on **event-driven architectures and telemetry systems**, contributing to scalable and responsive AI-powered broadcast solutions  
 
 ---
 
@@ -91,5 +98,5 @@ Power BI | Streamlit | Git | Jupyter
 
 ## 📫 Connect with Me
 
-- 🔗 LinkedIn: (add your link)
+- 🔗 LinkedIn: https://www.linkedin.com/in/shashank-raj-rauniyar/
 - 📧 Email: shashankrajrauniyar@gmail.com
