@@ -2,6 +2,10 @@
 <!-- ========================================= -->
 <!--               HERO SECTION                -->
 <!-- ========================================= -->
+<p align="center">
+<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/d557be76-820d-4721-a4ab-8433bbfa2b01" >
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Shashank Raj</h1>
 
@@ -21,7 +25,7 @@ AI Engineer • GenAI • RAG Systems • AI Agents • Data Engineering
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI" width="350" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
 - 🎓 B.Tech CSE Graduate from **Gautam Buddha University**
 - 🤖 AI/ML Engineer focused on **GenAI, RAG Pipelines & Agentic AI**
@@ -214,12 +218,12 @@ AI Engineer • GenAI • RAG Systems • AI Agents • Data Engineering
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shashankraj0410&show_icons=true&theme=tokyonight" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankraj0410&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shashankraj0410&show_icons=true&theme=react" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankraj0410&theme=react" />
 </p>
 
 <p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankraj0410&layout=compact&theme=tokyonight" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankraj0410&layout=compact&theme=react" />
 </p>
 
 ---
