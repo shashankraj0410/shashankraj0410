@@ -1,4 +1,4 @@
-```md
+
 <!-- ========================================= -->
 <!--               HERO SECTION                -->
 <!-- ========================================= -->
@@ -258,4 +258,4 @@ AI Engineer • GenAI • RAG Systems • AI Agents • Data Engineering
 <h3 align="center">
 ⭐ If you like my work, consider starring my repositories!
 </h3>
-```
+
